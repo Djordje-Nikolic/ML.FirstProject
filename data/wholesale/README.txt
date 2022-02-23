@@ -1,0 +1,1 @@
+https://www.kaggle.com/smitisinghal/wholesale-customers-data
